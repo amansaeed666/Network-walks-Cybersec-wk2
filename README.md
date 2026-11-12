@@ -1,10 +1,6 @@
 # Network-walks-Cybersec-wk2
 # 🔍 Footprinting, Reconnaissance & Network Scanning
 
-![Platform](https://img.shields.io/badge/Platform-Kali%20Linux%20%7C%20Windows-blue)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red)
-![Program](https://img.shields.io/badge/Program-Networkwalks-orange)
-![Week](https://img.shields.io/badge/Week-02-green)
 
 ## 📌 Project Overview
 
@@ -32,8 +28,6 @@ The main objectives of this week's practical work were to:
 | **Module** | **Activity** | **Tools Used** |
 |------------|--------------|----------------|
 | W2-PM1 | Domain Footprinting and Reconnaissance | WHOIS, WhatWeb, Nslookup, cURL, WAFW00F, DNSRecon |
-| W2-PM2 | Google Search and GHDB Research | Google Dorks, GHDB |
-| W2-PM3 | OSINT and Relationship Mapping | Maltego |
 | W2-PM4 | Domain and Email Information Gathering | theHarvester |
 | W2-PM5 | Local Network Discovery and Scanning | Zenmap, Nmap, Windows CMD |
 
@@ -85,9 +79,6 @@ The report contains:
 - Final conclusion
 - Screenshots and practical evidence
 
-**Report Folder:** `report/`
-
-The complete report and supporting screenshots are available inside the report directory.
 
 ## 🔐 Authorized Scope and Ethical Use
 
@@ -112,16 +103,6 @@ By completing these practical exercises, I improved my understanding of:
 - Network topology analysis
 - Security reporting and documentation
 
-## 📁 Repository Structure
-
-```text
-networkwalks-cybersecurity-week2/
-│
-├── README.md
-│
-└── report/
-    └── Week-02-Penetration-Testing-Report.pdf
-```
 
 *The report filename can be changed according to your final uploaded report.*
 
@@ -132,6 +113,7 @@ networkwalks-cybersecurity-week2/
 **Topic:** Footprinting, Reconnaissance & Network Scanning  
 **Author:** Aman Saeed  
 **GitHub:** [amansaeed666](https://github.com/amansaeed666/Network-walks-cybersec-wk2)
+
 
 ---
 
